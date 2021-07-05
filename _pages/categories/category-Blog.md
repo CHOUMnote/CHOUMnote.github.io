@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Blog 태그 검색"
 layout: archive
 permalink: categories/Blog
 author_profile: true
