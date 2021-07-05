@@ -3,7 +3,6 @@ layout: single
 title: "지호의 첫번째 포스팅, ㅎㅇㅎㅇ"
 categories: Blog
 tags: Blog
-comments: true, etc
 ---
 
 # 안녕하세요 오늘 첫번째 포스팅을 올립니다. 
