@@ -2,6 +2,12 @@
 main:
   - title: "무한루프"
     url: https://choumnote.github.io/categories/blog
+  - title: "깃허브"
+    url: https://github.com/CHOUMnote/
+   
+    
+    
+    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
