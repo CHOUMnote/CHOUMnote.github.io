@@ -26,7 +26,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Edu" %}
-                        <li><a href="/categories/blog" class="">교육 자료 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/edu" class="">교육 자료 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
