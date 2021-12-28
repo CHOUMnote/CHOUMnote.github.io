@@ -2,9 +2,6 @@
 layout: single
 title: "지호의 첫번째 포스팅, ㅎㅇㅎㅇ"
 categories: Blog
-tags: 
-- Blog
-- etc
 
 excerpt : "깃허브 블로그 많은 관심 부탁드립니다!"
 date: 2021-07-23
