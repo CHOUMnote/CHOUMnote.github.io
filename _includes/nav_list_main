@@ -14,6 +14,14 @@
         
         <span class="nav__sub-title">파이썬</span>
         
+        <span class="nav__sub-title">알고리즘</span>
+          <ul>
+               {% for category in site.categories %}
+                   {% if category[0] == "Algorithm" %}
+                       <li><a href="/categories/algorithm" class="">알GO리즘 ({{category[1].size}})</a></li>
+                   {% endif %}
+               {% endfor %}
+           </ul>
         <span class="nav__sub-title">ETC</span>
             <ul>
                 {% for category in site.categories %}
